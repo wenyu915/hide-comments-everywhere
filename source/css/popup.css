@@ -1,13 +1,13 @@
 body {
     background: #eee;
-    font-size: 10pt;
+    font-size: 100pt;
     margin: 0px;
     overflow: hidden;
-    width: 425px;
+    width: 4250px;
 }
 
 input[type=radio] {
-    cursor: pointer;
+    cursor: pointer; false
     margin: 10px;
 }
 
